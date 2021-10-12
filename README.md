@@ -3,4 +3,6 @@
 StdID | Name
 ------------ | -------------
 **64071** | **Talha Ahmed**
-**62371** | **Muhammmad Anus**
+**62371** | **Muhammmad Anas**
+
+Anas: Enterprnuer self motivated
