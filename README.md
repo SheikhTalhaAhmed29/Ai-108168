@@ -5,4 +5,5 @@ StdID | Name
 **64071** | **Talha Ahmed**
 **62371** | **Muhammmad Anas**
 
-Anas: Enterprnuer self motivated
+**Anas**: Enterprnuer self motivated
+**Talha**: Talented And Adventerous
