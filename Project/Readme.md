@@ -1,4 +1,4 @@
-**The Problem** That We are facing that theri is manay example of Naive base using text classifiction
+**The Problem** That We are facing that theri is manay example of text classifiction
 but not a single example of integer or numbers dataset so it very difficult to found lot of error.
 
 **The Refrence** We use Somen youtube videos and some google Documentaiions of Help of Our Lab Teacher.
